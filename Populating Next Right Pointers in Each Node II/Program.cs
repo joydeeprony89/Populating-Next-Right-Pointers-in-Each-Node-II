@@ -76,6 +76,7 @@ namespace Populating_Next_Right_Pointers_in_Each_Node_II
                 head = null;
                 prev = null;
             }
+
             return root;
         }
     }
